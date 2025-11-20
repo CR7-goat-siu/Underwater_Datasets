@@ -3,3 +3,5 @@
 
 HICRD数据集
   https://data.csiro.au/collection/csiro:49488
+Seathru数据集
+  https://www.kaggle.com/datasets/colorlabeilat/seathru-dataset
