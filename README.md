@@ -11,6 +11,10 @@
   
     https://www.kaggle.com/datasets/colorlabeilat/seathru-dataset
 
+  SQUID数据集
+
+    https://zenodo.org/records/5744037
+
 有一些学术占位的数据集
 
   SynUIEDatasets
