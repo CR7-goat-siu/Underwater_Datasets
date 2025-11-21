@@ -14,6 +14,10 @@
 
     https://zenodo.org/records/5744037
 
+  UVEB数据集
+
+    https://github.com/yzbouc/UVEB
+
 有一些学术占位的数据集
 
   SynUIEDatasets
