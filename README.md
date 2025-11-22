@@ -20,7 +20,7 @@
 
   NYU-U数据集
 
-    [https://github.com/saeed-anwar/UWCNN?tab=readme-ov-file](https://li-chongyi.github.io/proj_underwater_image_synthesis.html)
+    https://li-chongyi.github.io/proj_underwater_image_synthesis.html
 
 有一些学术占位的数据集
 
