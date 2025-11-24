@@ -57,4 +57,5 @@
   WaterPairs
 
      https://github.com/IanDragon/WaterPairs
-  
+
+unzip.py:处理数据集的时候，可能一个数据集里面有很多个压缩包，一个个手动解压太low了。只要把这个脚本放在跟压缩包一个目录下，直接运行就可以批量打开了。但是这个不能解压.rar文件。
