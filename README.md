@@ -22,6 +22,10 @@
 
     https://li-chongyi.github.io/proj_underwater_image_synthesis.html
 
+  SUVE数据集
+
+    https://drive.google.com/drive/folders/1kr3mYyctNbcnJdSR0hjEUkahoDd5cH0h
+
 有一些学术占位的数据集
 
   SynUIEDatasets
