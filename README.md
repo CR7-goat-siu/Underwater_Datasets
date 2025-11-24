@@ -26,6 +26,10 @@
 
     https://drive.google.com/drive/folders/1kr3mYyctNbcnJdSR0hjEUkahoDd5cH0h
 
+  TURBID数据集
+
+    http://amandaduarte.com.br/turbid/
+
 有一些学术占位的数据集
 
   SynUIEDatasets
