@@ -48,6 +48,10 @@
 
     项目主页链接：https://github.com/LintaoPeng/U-shape_Transformer_for_Underwater_Image_Enhancement 
 
+  UVE-38k数据集
+
+    https://github.com/TrentQiQ/UVE-38K?tab=readme-ov-file
+
 有一些学术占位的数据集
 
   SynUIEDatasets
