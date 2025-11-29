@@ -52,6 +52,14 @@
 
     https://github.com/TrentQiQ/UVE-38K?tab=readme-ov-file
 
+  EUVP数据集
+
+    https://www.kaggle.com/datasets/pamuduranasinghe/euvp-dataset
+
+  SUID数据集
+
+    https://ieee-dataport.org/open-access/suid-synthetic-underwater-image-dataset
+
 有一些学术占位的数据集
 
   SynUIEDatasets
